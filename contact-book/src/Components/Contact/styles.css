@@ -1,0 +1,11 @@
+.contact{
+    border: 1px solid black;
+}
+
+
+
+.contactElement{
+    background-color: rgb(172, 172, 172);
+    height: 40px;
+    padding-left:15px;
+}

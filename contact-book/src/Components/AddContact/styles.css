@@ -1,0 +1,41 @@
+form {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 80px;
+}
+
+.avatarHolder{
+    width: 70px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("./addPicture.png");
+    background-size: contain;
+    margin: 5px;
+    background-color: azure;
+
+}
+
+
+.avatarUpload{
+    size: 10px;
+    opacity: 0;
+}
+
+
+.infoHolder{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.infoHolder input{
+    background-color: white;
+
+}
+
+.infoHolder button{
+    width: 100px;
+}

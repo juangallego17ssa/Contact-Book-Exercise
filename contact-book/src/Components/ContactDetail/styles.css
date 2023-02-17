@@ -1,0 +1,11 @@
+.contactDetail{
+    background-color: rgb(218, 218, 218);
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contactDetail button{
+    width: 60px
+}
